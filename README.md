@@ -14,3 +14,4 @@
 - Use Prettier.
 - Add some cool GitHub Actions.
 - Maybe use [Google Cloud Platform](https://cloud.google.com/).
+- Ofc use TypeScript
