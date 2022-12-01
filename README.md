@@ -15,3 +15,40 @@
 - Add some cool GitHub Actions.
 - Maybe use [Google Cloud Platform](https://cloud.google.com/).
 - Ofc use **TypeScript**
+
+## Developing
+
+Start a development server:
+
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
+
+## Building
+
+To create a production version of your app:
+
+```bash
+npm run build
+```
+
+## Preview
+
+You can preview the production build:
+
+```bash
+npm run preview
+```
+
+... or to build **AND** preview:
+
+```bash
+npm run build && npm run preview
+```
+
+## Deployment
+
+To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
